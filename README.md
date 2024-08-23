@@ -1,4 +1,4 @@
-## Ehye-tech E-commerce App (Python)
+## Ehye-tech E-commerce App
 This repository holds the code for Ehye-tech's Python e-commerce application, allowing users to browse, search for, and purchase products.
 
 I suggest this app because:
